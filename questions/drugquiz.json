@@ -1,0 +1,96 @@
+{
+  "quiz_name": "Drug Prevention",
+  "author": "IllusionBoxers",
+  "timeout": 30,
+  "panelty": -30,
+  "questions": [
+    {
+      "question": "What is the most addictive drug?",
+      "answers": [
+        "Heroin",
+        "Cocaine",
+        "Nicotine ",
+        "Marijuana"
+      ],
+      "answer": 2,
+      "fact": "Nicotine is responsible for 440,000 deaths every year in the United States and is the most preventable cause of death."
+    },
+    {
+      "question": "How can the use of Marijuana lead to the consumption of Harder Drugs? ",
+      "answers": [
+        "People who use marijuana tend to experiment with other drugs",
+        "Marijuana users need other drugs to enhance the effects of weed",
+        "Because a marijuana user builds up a tolerance to marijuana and hence seeks stronger drugs to simulate the same degree of high",
+        "A means of treating one’s addiction to marijuana is by taking other drugs"
+      ],
+      "answer": 2,
+      "fact": "When the “high” fades, the problem, unwanted condition or situation returns more intensely than before. The user may then turn to stronger drugs since marijuana no longer “works.”"
+    },
+    {
+      "question": "Which of these statements is true? ",
+      "answers": [
+        "It takes years to become dependent on drugs",
+        "A drug may give you a temporary “high,” but when it wears off the crash is lower than before",
+        "Drugs will remove your fears and make life more pleasant",
+        "Drugs enhance your creativity"
+      ],
+      "answer": 1,
+      "fact": "When the effects start to wear off, the person may turn to more potent drugs to rid himself of the unwanted conditions that caused him to take the drug in the first place as you most often feel even worse than you did before you took the drug."
+    },
+    {
+      "question": "Some short-term effects of marijuana are, ",
+      "answers": [
+        "Loss of coordination and distortions in the sense of time, vision and hearing",
+        "Improved academic achievement through increased memory and ability to solve problems",
+        "Decreased risk of heart attack",
+        "Improved endurance and physical performance in competition"
+      ],
+      "answer": 0,
+      "fact": "25% of people said that they felt a loss of sensation, numbness and tingling after consuming marijuana for a period between 1 to 6 months."
+    },
+    {
+      "question": "Some long-term effects of marijuana are,",
+      "answers": [
+        "Resistance to flu and common colds",
+        "Damage to the lungs and the brain",
+        "Increase in productivity and sense of self-fulfilment",
+        "Anorexia and weight loss"
+      ],
+      "answer": 1,
+      "fact": "After consuming Marijuana, there is often high levels of rapid destruction of lung fibers and lesions (injuries) to the brain could be permanent."
+    },
+    {
+      "question": "Does ecstasy heighten your senses? ",
+      "answers": [
+        "Yes. Always",
+        "Yes but only sexually",
+        "Yes but only for a period of time",
+        "No."
+      ],
+      "answer": 3,
+      "fact": "Ecstasy is often called “the love pill” because it heightens perceptions of colour and sound and supposedly amplifies sensations when one touches or caresses another, particularly during sex. Ecstasy is emotionally damaging and users often suffer depression, confusion, severe anxiety, paranoia, psychotic behaviour and other psychological problems."
+    },
+    {
+      "question": "What is the minimum amount of ecstasy needed to kill you?",
+      "answers": [
+        "One Pill",
+        "10 pills",
+        "23 pills",
+        "One fifteenth of a pill"
+      ],
+      "answer": 3,
+      "fact": "The average ecstasy pill contains between 75mg all the way up to 160mg. The smallest dosage recorded to be fatal is 5mg."
+    },
+    {
+      "question": "What are street names for cocaine? ",
+      "answers": [
+        "Snow",
+        "Blow ",
+        "Neither A nor B",
+        "Both A and B "
+      ],
+      "answer": 3,
+      "fact": "Other names for cocaine are Aunt Nora, Bernice, Binge, Charlie, Coke, Dust, Flake, Mojo, Nose candy, Paradise, Sneeze, Sniff, Snow, Toot, and White."
+    }
+  ]
+}
